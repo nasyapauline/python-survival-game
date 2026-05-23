@@ -1,4 +1,4 @@
-#python-SURVIVAL game
+# Python Survival Game
 
 A 2D survival arcade game developed in Python using Pygame as part of the Senior Secondary School Computer Science Practical Examination conducted by AISCEE, New Delhi.
 
@@ -16,4 +16,3 @@ A 2D survival arcade game developed in Python using Pygame as part of the Senior
 - Python
 - Pygame
 - MySQL
-  
